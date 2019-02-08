@@ -29,3 +29,18 @@ Third: Install Python
 ```sh
 $ brew instll python
 ```
+### To run
+
+- open your terminal or bash and 
+
+- go to the file directory
+
+```sh
+$ cd 'YOUR DICRECTORY'
+```
+
+- use this command run
+```sh
+$ python3 'YOUR FILENAME'
+```
+
