@@ -6,7 +6,8 @@ I will add more project to this repo if I finished them.
 
 ## If you wish to learn
   - You can clone this project
-  - Drag and drop images (requires your Dropbox account be linked)
+  - You can request the project as you wish to
+  - If you are new, you can follow the instruction below
   
 ## What I use
 - Operating Sytem : macOS Mojave
