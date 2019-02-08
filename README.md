@@ -10,7 +10,7 @@ I will add more project to this repo if I finished them.
   
 ## What I use
 - Operating Sytem : macOS Mojave
-- Code Editor : Visual Studio COode
+- Code Editor : Visual Studio Code
 - Python Version : 3.7.2
 
 ## If you are new to Python
