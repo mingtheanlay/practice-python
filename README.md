@@ -36,7 +36,7 @@ $ brew instll python
 - go to the file directory
 
 ```sh
-$ cd 'YOUR DICRECTORY'
+$ cd 'YOUR DIRECTORY'
 ```
 
 - use this command run
